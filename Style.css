@@ -1,0 +1,153 @@
+.index {
+    background-image: url(./Images/darkbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+body{
+    background-color: rgb(214, 215, 230);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contact{
+    background-color: rgb(219, 69, 9);
+    color: rgb(255, 255, 255);
+    width: 100%;
+    text-align: center;    
+    position: relative;
+    bottom: 0;
+    background-size: cover;
+    height: 120px;
+    
+}
+
+.contact li{
+    overflow: hidden;
+    float: left;
+    width: 20%;
+    margin-left: 40px;
+}
+.contact li a {
+    color: aqua;
+}
+
+body .nav li{
+    overflow: hidden;
+    background-color: rgb(214, 215, 230);
+    background-size: cover;
+    text-align: center;
+    text-decoration: tomato;
+    width: auto;
+    margin-right: -100px;
+    margin-left: -100px;
+    font-size: larger;
+    height: 35px;
+}
+
+h1{
+    color: rgb(245, 80, 3);
+    text-align: center;
+    text-shadow: 2px;
+    font-size: 100px;
+    margin-top: 200px;
+}
+
+p{
+    color: aliceblue;
+    font-size: larger;
+    text-align: center;
+}
+
+h4.pd{
+    color: rgb(245, 80, 3);
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-left: 40px;
+}
+
+.imag img{
+    size: 10px;
+    width: 200px;
+    image-rendering: crisp-edges;
+    cursor: pointer;
+    background-position: center;
+    position: relative;
+    margin-left: 180px;
+}
+.image img{
+    size: 10px;
+    width: 200px;
+    cursor: pointer;
+    position: relative;
+    margin-left: 180px;
+}
+h4.hi{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(231, 112, 14);
+}
+
+p.esther{
+    color: rgba(209, 47, 7, 0.822);
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.copyright{
+    color: rgb(2, 17, 31);
+    background-color: white;
+    text-align: center;
+    width: 100%;
+    position: relative;
+    bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.about{
+    text-align: center;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    color: rgb(182, 76, 6);
+    font-size: larger;
+}
+
+.list{
+    color: rgb(12, 12, 44);
+    margin-right: auto;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: justify;
+}
+
+form{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3, h5{
+    color: rgb(206, 103, 7);
+    font-size: 60px;
+    text-align: center;
+}
+h5{
+    font-size: 30px;
+}
+form{
+    font-size: 30px;
+    margin-left: 50px;
+}
+button{
+    cursor: pointer;
+    color: aliceblue;
+    background-color: rgb(221, 105, 10);
+}
+input{
+    width: 50%;
+    height: 40px;
+}
