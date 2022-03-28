@@ -23,7 +23,7 @@ body{
 }
 
 .contact li{
-    overflow: hidden;
+    list-style: none;
     float: left;
     width: 20%;
     margin-left: 40px;
